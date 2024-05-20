@@ -8,6 +8,7 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title></title>
+          <link rel="icon" href="/favicon.ico"/>
       </Head>
       <main>
         <Box textAlign={"center"} my={8}>
